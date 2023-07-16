@@ -1,6 +1,6 @@
 ## Guessing Number Game
 
-![Screenshot](screenshot.png)
+![Screenshot](NumberGuessingGame.png)
 
 I have developed this Guessing Number game using HTML, CSS, and JavaScript. This game was created to test my development and logic-building skills.
 
@@ -20,6 +20,7 @@ I have developed this Guessing Number game using HTML, CSS, and JavaScript. This
 - Provides feedback on whether the guess is too high or too low.
 - Tracks the number of attempts made by the player.
 - Allows the player to keep guessing until they succeed.
+- Keeps the track of the number of guesses of user.
 
 ### Demo
 You can find a live demo of the game [here](https://irtiza1.github.io/GuessingNumberGame/).
