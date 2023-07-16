@@ -21,6 +21,7 @@ I have developed this Guessing Number game using HTML, CSS, and JavaScript. This
 - Tracks the number of attempts made by the player.
 - Allows the player to keep guessing until they succeed.
 - Keeps the track of the number of guesses of user.
+- A message will pop up on screen if a player enter number beyond the range
 
 ### Demo
 You can find a live demo of the game [here](https://irtiza1.github.io/GuessingNumberGame/).
